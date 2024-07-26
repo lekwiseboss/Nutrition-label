@@ -1,0 +1,98 @@
+body{
+    font-family:'Open Sans',sans-serif;
+    background-color: #ac0e0e;
+    
+
+  }
+  html{font-size:16px;
+
+  }
+  .label{
+    border: 4px solid yellow;
+    background-color: white;
+    width:500px;
+   padding:0 17px;
+     margin: 20px auto;
+     border-radius: 15px;
+
+  }
+  *{
+    box-sizing: border-box;
+  }
+  header h1{
+   
+    margin-bottom: 2.5px;
+    letter-spacing :0.15px;
+    margin-left: 3px;
+   
+
+  }
+p{
+    margin:0;
+    display:flex;
+justify-content:space-between;
+}
+.divider{border-bottom: 5px solid rgb(219, 123, 123);
+    margin:2px 0;
+}
+.bold{font-weight:800;
+
+}
+.large{background-color: #f50808;
+  height:25px;
+  margin:4px auto;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;  
+}
+.energy{
+  font-weight: 700;
+  color: white;
+  margin-left: 5px;
+}
+.calories-info{
+  border-color: rgb(231, 153, 49);
+  border-width: 3px 3px 6px 3px ;
+  font-weight: 700;
+  border-style: solid;
+
+}
+.small-text{margin-left: 156px;
+  font-weight: 600;
+  font-size:14px;
+
+}
+.space{
+  margin-right: 12px;
+
+}
+.top-container{
+  height: 1.5em;
+  background-color: rgb(238, 190, 87);
+  border-bottom:3px solid  rgb(231, 153, 49);
+  align-items: center;
+}
+.space1{
+  margin-right: 40px;
+  padding:none;
+  
+}
+.bottom{
+  height:2px;
+  background-color:rgb(231, 153, 49);
+}
+.Total{
+justify-content:space-between;
+margin-left: 8px;
+margin-right: 10px;
+}
+.space2{
+  margin-left: -80px;
+}
+.space3{margin-left: 21px;
+
+}
+.note{font-size: 12px;
+  font-weight: 700;
+line-height: 18px;
+word-spacing: 6px;
+}
